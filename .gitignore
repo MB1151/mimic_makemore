@@ -1,0 +1,4 @@
+.makemore_venv
+*Zone.Identifier
+*__pycache__
+.vscode/*
