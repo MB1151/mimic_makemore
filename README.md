@@ -39,7 +39,7 @@ This repository contains the implementation of multiple models from the Andrej K
 Each `makemore` directory contains two parallel sets of implementations for the same models:
 
 1. Step by Step implementation in the Jupiter notebooks where each line of code is explained in detail and executed.
-2. Modularized implementation of the same model in python scripts which is used to train a a very small toy dataset.
+2. Modularized implementation of the same model in python scripts which is used to build the models.
 
 ---
 
