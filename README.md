@@ -20,7 +20,6 @@ Please navigate to his original videos to understand more about these models and
 - <u>[Video](https://www.youtube.com/watch?v=ScduwntrMzc&t=41s)</u> explains the concepts of Likelihood and several related concepts &rarr; *By zedstatistics*
 - <u>[Video](https://www.youtube.com/watch?v=7kLHJ-F33GI&t=40s)</u> explains the concepts of Maximum Likelihood Estimation &rarr; *By zedstatistics*
 - <u>[Paper](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)</u> introducing a neural network architecture for language modeling &rarr; *By Yoshua Bengio*
-    - Paper based on which the neural network architecture used in [`makemore_part2`](makemore_part2/) is built from.
 - <u>[Paper](https://arxiv.org/pdf/1506.01186)</u> that first introduced Learning Rate Range Test &rarr; *By Leslie N. Smith*
 - <u>[Blog](https://brandonmorris.dev/2018/06/24/mastering-the-learning-rate/)</u> explains how to choose good learning rate for training neural networks &rarr; *By Brandon Morris*
 - <u>[Blog](https://blog.dataiku.com/the-learning-rate-finder-technique-how-reliable-is-it)</u> provides a few recommendations in choosing learning rate bounds and the reliability of LRRT methodology.
